@@ -1,0 +1,45 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.book-store-main-page {
+    background-color: #1b1b1b;
+    padding: 25px;
+}
+
+.book-store-main-page-title {
+    font-family: "Bree Serif";
+}
+
+.book-store-main-page-main-card-image {
+    border-radius: 20px;
+}
+
+.book-store-main-page-main-card {
+    background-color: #e6f6ff;
+    border-radius: 20px;
+}
+
+.book-title {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+}
+
+.book-para {
+    color: #7e858e;
+    font-family: "Roboto";
+}
+
+.book-store-main-page-main-card-content {
+    margin: 20px;
+}
+
+.detailed_info_bg_container {
+    background-color: #1b1b1b;
+}
